@@ -40,5 +40,5 @@
 24. the `BIOS SHADOW` is purpose to copying *rom to ram*
 25. we should `restart` the computer after fixing a problems or installing new application or making configuration in a computer.
 
-#hello world
+# OPERATING SYSTEM 
     
