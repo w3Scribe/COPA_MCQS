@@ -38,5 +38,7 @@
     </details>
 23. formating is the process of deleting all the data on the hard drive
 24. the `BIOS SHADOW` is purpose to copying *rom to ram*
-25. we should `restart` the computer after fixing a problems or installing new application or making configuration in a computer
+25. we should `restart` the computer after fixing a problems or installing new application or making configuration in a computer.
+
+#hello world
     
