@@ -24,7 +24,7 @@
 20. `device driver` is the program that used to enable the _devices to work with `os`_
 21. what is the name of the smaller division made in hard disk?
     <details><summary><b>Answer</b></summary>
-    <p>The smallest division made in a hard disk is called a sector. A sector is a physical storage unit on a disk, and is almost always 512 bytes (0.5 kB) in size.</p>
+      <p>The smallest division made in a hard disk is called a sector. A sector is a physical storage unit on a disk, and is almost always 512 bytes (0.5 kB) in size.</p>
     </details>
 22. which key is used to open CMOS setup utility?
     <details><summary><b>Answer</b></summary>
@@ -41,4 +41,43 @@
 25. we should `restart` the computer after fixing a problems or installing new application or making configuration in a computer.
 
 # OPERATING SYSTEM 
-    
+
+26. `windows` is an example of the operating system
+27. `operating system` act as an intermediate between a user and computer
+28. where does the minimized application reside in windows? `task bar`
+29. which control panel applet gives the information of computer? `system and security`
+30. `.cpl` is the extension of applet files in control panel
+31. `hierarchically` ordered the file and folder in windows explore
+32. what steps should be taken, if windows not updated automatically?
+    <details><summary><b>Answer</b></summary>
+    <p>
+      start --> setting --> control panel --> system --> enable automatic update
+    </p>
+    </details>
+        
+33. what should be done, if the pen drive is not deducted?
+    <details><summary><b>Answer</b></summary>
+    <p>
+      device manager --> right click on usb root hub --> enable device
+    </p>
+    </details>
+34. `cui` stands for `chracter user interface`
+35. a translator is described as `system` software
+36. MAC operating system was developed in `1984`
+37. `operating system` is the first program run on a computer when the computer boots up
+38. `dignostic software` is the program that is used to find out possible faults and their causes 
+39. what is meant by dedicated computer
+    <details><summary><b>Answer</b></summary>
+     <p>
+            A dedicated computer is a computer that is specifically designed and configured to perform a single task. This means that the computer's hardware and software are optimized for that task, and it is not able to perform any other tasks.
+
+            ans --> which is assigned one and only one task.     
+    </p>
+    </details>
+40. `process and memory managment` is the function of the operating system
+41. `ease of eccess` tool in control panel is used to adjust the computer setting to control with voice command
+42. `ctrl+X and ctrl+V` shortcut key is used to copy and paste the files and folder etc...
+43. `F5` function key is used to refresh the windows desktop
+44. where does the pined application stayed in windows os? `task bar`
+45. the date and time display on `system tray`
+46. who is called a supervisor of the computer activity? `operating system`
