@@ -81,3 +81,69 @@
 44. where does the pined application stayed in windows os? `task bar`
 45. the date and time display on `system tray`
 46. who is called a supervisor of the computer activity? `operating system`
+
+# MS DOS - DISK OPERATING SYSTEM
+47. what is the name of the hierarchial file system in dos? `root structure`
+48. in dos copy command can not copy `folder`
+49. `RD` DOS command is used to delete a directory
+50. `PATH`command is used to specify the location of the files and folder 
+51. the directory under the root directory are called `sub directory`
+52. which filename will matches the command .DIR????T.TXT in dos
+    *  time.txt
+    *  text.txt
+    *  temp.txt
+    *  tempt.txt
+    <details><summary><b>Answer</b></summary>
+    <p>tempt.txt</p>
+    </details>
+53. `CD` command is used to `change the path of the current directory`
+54. `8 characters` is the max number of character allowed as file name in dos
+55. which one of the following is th wildcard character?
+    - A : * and /
+    - B : ? and /
+    - C : * and ?
+    - D : ? and @
+    <details><summary><b>Answer</b></summary>
+    <p>  * and ?</p>
+    </details>
+56. which doc command is used to display system time?
+    - A : now
+    - B : time
+    - C : systme
+    - D : systemtime
+    <details><summary><b>Answer</b></summary>
+     <p>now()</p>
+    </details>
+57. what is the result of the dos command prompt $D $G? `current date>`
+    ```dos
+     06/24/2023 10:33:56 >
+    ```
+58. which dos command is used to list all com files in D drive?
+    - A : d:\ com
+    - B : d:\ com.*
+    - C : d:\ *.com
+    - D : d:\ *.com *
+    <details><summary><b>Answer</b></summary>
+      <p>option c</p>
+    </details>
+59. the last verstion of ms dos was `8.0`
+
+# LINUX OPERATING SYSTEM & COMMANDS
+
+70. muiltitasking and multiuser is the feature of `linux`
+71. the name of `LINUX` is derived from its inventor `linus torvalds`
+72. linux is pronounced with a short i as in `lih-nux`
+73. linux is multitasking and `32` bit support
+74. `..` character is used to represent the prarent directory in linux
+75. `/` is the directory separator in linux
+76. `[]` is used to represent the range of the values in linux
+77. `|` character redirects the output of one command to another command in linux
+78. `ls */` this command is used to list the content of all sub directory
+79. which linux command list the contents of parent directory ?`ls../`
+80. what is use of 'who' command in linux? `login user`
+81. write the linux command to remove all the permission to the user and group on the directory software?
+    ```dos
+     chmod ug -rwx software
+    ```
+82. which linux command is used to sort the text file 'network' in descending order?
+    
