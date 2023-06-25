@@ -271,5 +271,87 @@
 111. `to allow headers and footer appear on the document` is the purpose of inserting header and footer in document?
 112. `synonyms and antonyms words` is purpose of thesaurus tool is MS Word?
 113. MS word is a `Word Processing` software.
+114. extension name of word 2004 `doc`
+115. in ms word ctrl+s is for `save`
+116. `ctrl+m` key is used to increase ledt indent
+117. `ctrl+a` key is used to select all text in docuement
+118. to undo the last work, press `ctrl+z`
+119. what is the purpose of gutter margin?
+     <details><summary><b>Answer</b></summary>
+      <p>margin that is added to binding side of pages when printing</p>
+      </details>
+120. portrait and landscape are `page orientation`
+121. `quick access tool bar` in ms word is used to keep the familiar and repeated options
+122. `workspace` area in ms word is used to enter the text
+123. `save as` option is used to store the duplicate of the active document permanently
+124. in ms word , spelling mistakes are hilighted by `red underline`
+125. `mail merge` enables us to send the same letter to diffrent persons
+126. `save` option is used for saving content to and existing file
+127. `cut/copy` operations is to be perfomed before paste
+128. where does the file name of the active document displays
+      - A : title bar
+      - B : task bar
+      - C : menu bar
+      - D : status bar
+      <details><summary><b>Answer</b></summary>
+        <p>title bar</p>
+      </details>
+129. extension name of word 2007 and above `.docx`
+130. the highest font size in ms word is `1638`
+131. which language does ms word use to create macros?
+      - A : visual basic
+      - B : c++
+      - C : javascript
+      - D : html
+      <details><summary><b>Answer</b></summary>
+        <p>visual basic</p>
+      </details>
 
+# MS EXCEL
 
+133. what is the extension file excel 2004? `.xls`
+134. what is the extension file excel 2010? `xlsx`
+135. worksheet is also called an array of `cells`
+136. `alphanumerically` cell are named in ms excel
+137. how rows are numbered in ms excel ?`numerically`
+138. how columns are named in ms excel? `aphanumerically`
+139. `title bar` lies top of the windows in excel screen
+140. what is the maximum limit of rows in ms excel 2010? `1048576`
+141. what is the maximun limit of column in ms excel 2010? `16384`
+142. which tab is used to include pivot table, charts, hyperlinks to a spreadsheet
+      - A : insert
+      - B : page lagelayout
+      - C : data
+      - D : review
+      <details><summary><b>Answer</b></summary>
+        <p>insert tab</p>
+      </details>
+143. which tab in excel is used for proofing, protecting , and marking up a spread sheet?
+      - A : formula
+      - B : data
+      - C : review
+      - D : view
+      <details><summary><b>Answer</b></summary>
+        <p>review tab</p>
+      </details>
+144. which tools tool in ms office is best for organizing data and making lists?
+      - A : acces
+      - B : excel
+      - C : power point
+      - D : word
+      <details><summary><b>Answer</b></summary>
+        <p>excel</p>
+      </details>
+145. what is the file extension of excel 2010? `xlsx`
+146. how does the single element in a worksheet known as in excel? `cell`
+147. what do you mean by A3,B13:B20.C7 refrence in excel `range`
+148. `alphabetic` type of key should combine with ctrl key to create a macro key in excel
+149. `status bar` is used to display the sheet information and insertion point location in ms excel
+150. which tab is used to change the display of worksheet area and the data it contains?
+      - A : custome view
+      - B : full screen view
+      - C : page break view
+      - D : page layout view
+      <details><summary><b>Answer</b></summary>
+        <p>page layout view</p>
+      </details>
