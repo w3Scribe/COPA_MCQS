@@ -1,4 +1,4 @@
-- 👋 Hi there! I'm Sudhir Gadpayle, 
+- 👋 Hi there! I'm Sudhir Gadpayle 
 - 👀 a computer science and technology enthusiast. 
 - 🌱 I'm currently pursuing a diploma course in COPA
 - 💞️ I'm looking for collaborators to work on JavaScript challenges and problem-solving questions.
