@@ -146,18 +146,18 @@
      chmod ug -rwx software
     ```
 82. which linux command is used to sort the text file 'network' in descending order?
-    - A : sort r / network
-    - B : sort -r network
-    - C : sort +r network
-    - D : sort r \ network
+        - A : sort r / network
+        - B : sort -r network
+        - C : sort +r network
+        - D : sort r \ network
     <details><summary><b>Answer</b></summary>
       <p>option b</p>
     </details>
 83. which linux command to set eht permission x to user rw to other and launcher
-    - A : chmod 176 launcher
-    - B : chomd 671 launcher
-    - C : chomd 167 launcher
-    - D : chomd 166 launcher
+        - A : chmod 176 launcher
+        - B : chomd 671 launcher
+        - C : chomd 167 launcher
+        - D : chomd 166 launcher
     <details><summary><b>Answer</b></summary>
       <p>option c</p>
     </details>
@@ -170,10 +170,10 @@
 87. `to hold familiar and repeated function` is the purpose of quick access toolbar
 88. `status bar` contain the current position of the cursor in ms word
 89. where does the close button appear in ms word?
-    - A : top left corner of the window 
-    - B : top right corner of the window
-    - C : bottom left corner of the window
-    - D : bottom right corner of the window
+        - A : top left corner of the window 
+        - B : top right corner of the window
+        - C : bottom left corner of the window
+        - D : bottom right corner of the window
     <details><summary><b>Answer</b></summary>
       <p>option b</p>
     </details>
@@ -184,87 +184,87 @@
 94. `font` group include superscript, subscript, strike through option in ms word
 95. what is the purpose of the ❌ button ? `close button`
 96. what is the purpose of the zoom option?
-    - A : enlarge and reduce document / text size
-    - B : move up and down document / picture
-    - C : scroll left and right document / picture
-    - D : minimize and maximize the document / picture
+        - A : enlarge and reduce document / text size
+        - B : move up and down document / picture
+        - C : scroll left and right document / picture
+        - D : minimize and maximize the document / picture
     <details><summary><b>Answer</b></summary>
       <p>option A</p>
     </details>
 97. `horizontal ruler` option is used for tab setting
 98. what is the purpose of the vertical scroll bar?
-    - A : move the document up and down 
-    - B : move the document left side
-    - C : move the document right side
-    - D : move the document only upward
+        - A : move the document up and down 
+        - B : move the document left side
+        - C : move the document right side
+        - D : move the document only upward
         <details><summary><b>Answer</b></summary>
         <p>option a</p>
         </details>
 99. to `restore previous action` is the purpose of the undo action 
 100. Which option is used to activate and deactivate ruler?
-    - A : View → grids
-    - B : View → ruler
-    - C : Insert → tool bar
-    - D : Insert → ruler
+         - A : View → grids
+         - B : View → ruler
+         - C : Insert → tool bar
+         - D : Insert → ruler
         <details><summary><b>Answer</b></summary>
         <p>optin b</p>
         </details>
 101. What is the purpose of cover page?
-    - A : Allows to fill title, author, date and other information
-    - B : Fills the list of people intent to mail
-    - C : To view the mailed list
-    - D : Contains details of the documents
+         - A : Allows to fill title, author, date and other information
+         - B : Fills the list of people intent to mail
+         - C : To view the mailed list
+         - D : Contains details of the documents
         <details><summary><b>Answer</b></summary>
         <p>option a</p>
         </details>
 102. Which menu contains, Symbol option in MS Word?
-    - A : tools 
-    - B : table
-    - C : format 
-    - D : insert
+         - A : tools 
+         - B : table
+         - C : format 
+         - D : insert
         <details><summary><b>Answer</b></summary>
         <p>option d</p>
         </details>
 103. `find` option is used to locate any specific character, symbols or formulas in a document.
 104. `columns` feature is used to create a newspaper type document
 105. Which sequence of operation is required to insert bullets for list of data?
-    - A : aragraph group numbering button select any number type
-    - B : Paragraph group number button → select none
-    - C : Paragraph group bullet button→ type of bullets
-    - D : Paragraph group-bullet button → select none
+         - A : aragraph group numbering button select any number type
+         - B : Paragraph group number button → select none
+         - C : Paragraph group bullet button→ type of bullets
+         - D : Paragraph group-bullet button → select none
         <details><summary><b>Answer</b></summary>
         <p>option </p>
         </details>
 106. Which sequence of operation is required to remove numbering from a list of data?
-    - A : Number button select none from number type
-    - B : Number button-select number from number list
-    - C : Bullet button select none from bullet type
-    - D : Bullet button → select bullets from bullets list
+         - A : Number button select none from number type
+         - B : Number button-select number from number list
+         - C : Bullet button select none from bullet type
+         - D : Bullet button → select bullets from bullets list
         <details><summary><b>Answer</b></summary>
         <p>option a</p>
         </details>
 107. Which sequence of operation is required to remove tab stop markers from ruler?
-    - A : Drag the tab stop makers out of the ruler
-    - B : Double click the tab marker and clear all
-    - C : Right click the tab stop marker and choose remove
-    - D : Left click the tab stop marker and choose remove
+         - A : Drag the tab stop makers out of the ruler
+         - B : Double click the tab marker and clear all
+         - C : Right click the tab stop marker and choose remove
+         - D : Left click the tab stop marker and choose remove
         <details><summary><b>Answer</b></summary>
         <p>option a</p>
         </details>
 108. `justifying` feature is used to adjust the amount of space between words for alignment in MS Word 
 109. How can we rectify the errors occurs while typing? 
-    - A : Auto entry
-    - B : Auto add
-    - C : Auto spell
-    - D : Auto correct
+         - A : Auto entry
+         - B : Auto add
+         - C : Auto spell
+         - D : Auto correct
       <details><summary><b>Answer</b></summary>
         <p>option d</p>
       </details>
 110. Which sequence of operation is required to force page break in word document?
-    - A : by using insert/selection black on the insert tab
-    - B : by positioning the cursor at the appropriate place and press enter
-    - C : by positioning the cursor at the appropriate place and press F1 key
-    - D : by position the cursor at the apporpliate place and pressing ctrl + enter
+         - A : by using insert/selection black on the insert tab
+         - B : by positioning the cursor at the appropriate place and press enter
+         - C : by positioning the cursor at the appropriate place and press F1 key
+         - D : by position the cursor at the apporpliate place and pressing ctrl + enter
       <details><summary><b>Answer</b></summary>
         <p>option d</p>
       </details>
