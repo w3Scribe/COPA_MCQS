@@ -1,4 +1,1 @@
-- 👋 Hi there! I'm Sudhir Gadpayle 
-- 👀 a computer science and technology enthusiast. 
-- 🌱 I'm currently pursuing a undergraduate course BCA
-- 💞️ I'm looking for collaborators to work on JavaScript challenges and problem-solving questions.
+Welcome to the ITI Copa MCQS git! This git contains a collection of MCQs that are relevant to the exams for ITI Copa. The MCQs are divided into different topics, so you can easily find the ones that you need to study.
